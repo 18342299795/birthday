@@ -32,7 +32,7 @@ var config = {
         turn_on: "过生日啦！",
         play: "来点音乐？",
         bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "好像少点东西呢？",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
